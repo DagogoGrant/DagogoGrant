@@ -93,11 +93,9 @@ quality         eval sets, LLM-as-judge patterns, traces, monitoring, guardrails
 
 <div align="center">
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=DagogoGrant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)
+![Technical telemetry](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/main/assets/telemetry.svg)
 
 ![GitHub streak](https://streak-stats.demolab.com?user=DagogoGrant&theme=tokyonight&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DagogoGrant&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagogoGrant&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Signal)
 
