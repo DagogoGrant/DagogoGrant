@@ -1,107 +1,118 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=180&color=0:00E5FF,100:7C3AED&text=Grant%20Dagogo&fontColor=FFFFFF&fontSize=44&fontAlignY=36&desc=AI%20Engineering%20%7C%20Agents%20%7C%20Automation&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:0F172A,100:00E5FF&text=Grant%20Dagogo&fontColor=E2E8F0&fontSize=48&fontAlignY=38&desc=AI%20Engineering%20%7C%20Agentic%20Systems%20%7C%20Production%20Automation&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2600&pause=700&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+LLM+apps+that+connect+to+real+workflows;Designing+agents+with+tools%2C+memory%2C+and+retrieval;Turning+automation+ideas+into+production-minded+systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2300&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+booting+agentic+workflow+runtime...;%3E+indexing+context+%7C+retrieving+signals+%7C+calling+tools...;%3E+shipping+LLM+apps+with+evals%2C+APIs%2C+and+automation...)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00E5FF)](https://github.com/DagogoGrant)
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
-[![Focus](https://img.shields.io/badge/Focus-AI%20Automation-7C3AED?style=for-the-badge)](#)
-[![Open to Work](https://img.shields.io/badge/Open%20to-AI%20Engineering%20Roles-22C55E?style=for-the-badge)](#)
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-00E5FF?style=for-the-badge&logo=openai&logoColor=111111)](#)
+[![Open to Work](https://img.shields.io/badge/Open_to-AI_Automation_Roles-22C55E?style=for-the-badge)](#)
 
 </div>
 
-## About Me
-
-- Master's student in AI Engineering, focused on practical AI systems.
-- Building with LLM applications, agentic workflows, RAG, and workflow automation.
-- Interested in production AI engineering roles across Germany and remote Europe.
-- I like systems where models use tools, retrieve context, and produce measurable outcomes.
-
-## System Profile
-
 ```txt
-Role        AI Engineering Master's Student
-Location    Germany / Europe
-Focus       LLM apps, RAG, AI agents, workflow automation
-Mode        Build useful systems, ship iteratively, measure behavior
+grant@github:~$ whoami
+AI Engineering Master's student building practical LLM systems, RAG apps, tool-using agents,
+and automation workflows that move from prompt experiments toward reliable production behavior.
+
+grant@github:~$ current_vector
+Germany / Europe :: AI automation :: agentic workflows :: production LLM applications
 ```
 
-## Technologies I Use
+## Runtime Profile
+
+| Layer | Signal |
+|---|---|
+| Identity | AI Engineering Master's student focused on applied systems |
+| Core domain | LLM apps, RAG, AI agents, workflow automation |
+| Engineering mode | Prototype fast, evaluate behavior, harden useful flows |
+| Target surface | Backend services, internal tools, workflow copilots, automation dashboards |
+| Direction | Production AI engineering roles in Germany and remote Europe |
+
+## Agentic Architecture
+
+```mermaid
+flowchart TD
+    U["User / Workflow Event"] --> O["Orchestrator"]
+    O --> P["Prompt + Policy Layer"]
+    P --> R["Retrieval Pipeline"]
+    R --> V["Vector Store"]
+    P --> T["Tool Router"]
+    T --> A["APIs / Databases / Services"]
+    A --> E["Execution Result"]
+    V --> C["Context Pack"]
+    C --> M["LLM Reasoning Layer"]
+    E --> M
+    M --> G["Guardrails + Evaluation"]
+    G --> S["Shipped Automation"]
+    S --> L["Logs / Metrics / Feedback"]
+    L --> O
+```
+
+## Tech Control Plane
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge&logoColor=black)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
+![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
 
 </div>
 
-## Interactive Map
-
-```mermaid
-flowchart LR
-    A["Problem"] --> B["Workflow Map"]
-    B --> C["LLM / Agent Layer"]
-    C --> D["Tools + APIs"]
-    D --> E["Evaluation Loop"]
-    E --> F["Reliable Automation"]
-    F --> B
+```txt
+languages       Python, TypeScript, SQL
+llm_stack       OpenAI API, LangChain, LangGraph, tool calling, structured outputs
+retrieval       embeddings, vector search, context compression, reranking patterns
+backend         FastAPI, REST APIs, PostgreSQL, async services
+delivery        Docker, CI/CD, GitHub Actions, cloud-ready services
+quality         eval sets, LLM-as-judge patterns, traces, monitoring, guardrails
 ```
+
+## Build Matrix
+
+| System | What it should do | Engineering concern |
+|---|---|---|
+| Agent runtime | Plan steps, call tools, use context, return structured output | State, retries, tool safety |
+| RAG service | Retrieve useful evidence before generation | Chunking, embeddings, relevance, evals |
+| Workflow automation | Replace repetitive manual processes with API-driven flows | Reliability, observability, fallbacks |
+| AI backend | Serve model-powered features through clean interfaces | Latency, validation, cost control |
+| Evaluation loop | Measure whether outputs improve over time | Test sets, scoring, regression tracking |
 
 <details open>
-<summary><b>Current Build Stack</b></summary>
+<summary><b>Currently Indexing</b></summary>
 
-```txt
-Languages      Python, TypeScript, SQL
-AI / LLMs      OpenAI API, LangChain, LangGraph, RAG, tool calling, evals
-Backend        FastAPI, REST APIs, PostgreSQL
-Infra          Docker, CI/CD, cloud platforms
-Data           Vector databases, embeddings, model monitoring
-```
+- Agent orchestration with LangGraph-style state machines.
+- RAG pipelines that separate retrieval quality from generation quality.
+- FastAPI services around model calls, tools, and automation triggers.
+- Evals, traces, and feedback loops for production AI behavior.
 
 </details>
 
 <details>
-<summary><b>What I am building toward</b></summary>
-
-- AI agents that can use tools, retrieve context, and complete structured tasks.
-- RAG systems with evaluation loops instead of one-off prompt experiments.
-- Workflow automations with clean APIs and measurable outputs.
-- Production AI engineering roles in Germany and remote Europe.
-
-</details>
-
-<details>
-<summary><b>Keywords recruiters and collaborators should find here</b></summary>
+<summary><b>Recruiter Search Terms</b></summary>
 
 `Python` `LLM Applications` `RAG` `Vector Databases` `LangChain` `LangGraph`
 `AI Agents` `Tool Calling` `Workflow Automation` `Prompt Engineering`
 `Evaluation Frameworks` `FastAPI` `APIs` `Docker` `PostgreSQL`
+`Model Monitoring` `Guardrails` `Production AI Systems`
 
 </details>
 
-## Featured Workbench
-
-| Track | What I build | Stack signal |
-|---|---|---|
-| Agentic systems | Tool-using agents, workflow copilots, task automation | Python, LangGraph, APIs |
-| RAG apps | Retrieval pipelines, embeddings, evaluation loops | Vector DBs, FastAPI, OpenAI API |
-| Automation | Repetitive process automation with reliable outputs | Docker, CI/CD, PostgreSQL |
-| AI product engineering | Practical interfaces around model-powered workflows | TypeScript, APIs, observability |
-
-## Live Dashboard
+## Telemetry
 
 <div align="center">
 
-![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=DagogoGrant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Grant's GitHub stats](https://github-readme-stats.vercel.app/api?username=DagogoGrant&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true)
+
+![GitHub streak](https://streak-stats.demolab.com?user=DagogoGrant&theme=tokyonight&hide_border=true)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DagogoGrant&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -109,7 +120,7 @@ Data           Vector databases, embeddings, model monitoring
 
 </div>
 
-## Trophies
+## Achievement Layer
 
 <div align="center">
 
@@ -130,16 +141,13 @@ Data           Vector databases, embeddings, model monitoring
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-00E5FF?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-00E5FF?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Build_with_me-Agentic_AI-7C3AED?style=for-the-badge)](#)
 
 </div>
 
----
-
 <div align="center">
 
-**Building AI systems that do the work, not just describe it.**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,100:00E5FF)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:020617)
 
 </div>
