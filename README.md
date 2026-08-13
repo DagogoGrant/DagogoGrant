@@ -7,8 +7,16 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00E5FF)](https://github.com/DagogoGrant)
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
 [![Focus](https://img.shields.io/badge/Focus-AI%20Automation-7C3AED?style=for-the-badge)](#)
+[![Open to Work](https://img.shields.io/badge/Open%20to-AI%20Engineering%20Roles-22C55E?style=for-the-badge)](#)
 
 </div>
+
+## About Me
+
+- Master's student in AI Engineering, focused on practical AI systems.
+- Building with LLM applications, agentic workflows, RAG, and workflow automation.
+- Interested in production AI engineering roles across Germany and remote Europe.
+- I like systems where models use tools, retrieve context, and produce measurable outcomes.
 
 ## System Profile
 
@@ -19,8 +27,22 @@ Focus       LLM apps, RAG, AI agents, workflow automation
 Mode        Build useful systems, ship iteratively, measure behavior
 ```
 
-I work on AI systems that are useful beyond demos: retrieval pipelines, agentic workflows,
-automation tools, API integrations, and production-minded LLM applications.
+## Technologies I Use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-00E5FF?style=for-the-badge&logoColor=black)
+
+</div>
 
 ## Interactive Map
 
@@ -66,6 +88,15 @@ Data           Vector databases, embeddings, model monitoring
 
 </details>
 
+## Featured Workbench
+
+| Track | What I build | Stack signal |
+|---|---|---|
+| Agentic systems | Tool-using agents, workflow copilots, task automation | Python, LangGraph, APIs |
+| RAG apps | Retrieval pipelines, embeddings, evaluation loops | Vector DBs, FastAPI, OpenAI API |
+| Automation | Repetitive process automation with reliable outputs | Docker, CI/CD, PostgreSQL |
+| AI product engineering | Practical interfaces around model-powered workflows | TypeScript, APIs, observability |
+
 ## Live Dashboard
 
 <div align="center">
@@ -78,11 +109,28 @@ Data           Vector databases, embeddings, model monitoring
 
 </div>
 
+## Trophies
+
+<div align="center">
+
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=DagogoGrant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
+
+</div>
+
 ## Contribution Loop
 
 <div align="center">
 
 ![Contribution snake](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+## Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming%20soon-00E5FF?style=for-the-badge)](#)
 
 </div>
 
