@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:0F172A,100:00E5FF&text=Grant%20Dagogo&fontColor=E2E8F0&fontSize=48&fontAlignY=38&desc=AI%20Engineering%20%7C%20Agentic%20Systems%20%7C%20Production%20Automation&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:0F172A,100:00E5FF&text=Grant%20Dagogo&fontColor=E2E8F0&fontSize=48&fontAlignY=38&desc=AI%20Engineering%20%7C%20LLM%20Apps%20%7C%20Automation%20Systems&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2300&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+booting+agentic+workflow+runtime...;%3E+indexing+context+%7C+retrieving+signals+%7C+calling+tools...;%3E+shipping+LLM+apps+with+evals%2C+APIs%2C+and+automation...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2300&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+building+AI-powered+tools...;%3E+connecting+LLMs+to+APIs%2C+data%2C+and+workflows...;%3E+learning+fast+%7C+shipping+clean+%7C+improving+daily...)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00E5FF)](https://github.com/DagogoGrant)
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
@@ -13,8 +13,8 @@
 
 ```txt
 grant@github:~$ whoami
-AI Engineering Master's student building practical LLM systems, RAG apps, tool-using agents,
-and automation workflows that move from prompt experiments toward reliable production behavior.
+AI Engineering Master's student building practical LLM apps, automation tools,
+backend services, and clean technical projects that grow toward production quality.
 
 grant@github:~$ current_vector
 Germany / Europe :: AI automation :: agentic workflows :: production LLM applications
@@ -27,28 +27,8 @@ Germany / Europe :: AI automation :: agentic workflows :: production LLM applica
 | Identity | AI Engineering Master's student focused on applied systems |
 | Core domain | LLM apps, RAG, AI agents, workflow automation |
 | Engineering mode | Prototype fast, evaluate behavior, harden useful flows |
-| Target surface | Backend services, internal tools, workflow copilots, automation dashboards |
+| Target surface | Backend services, internal tools, automation dashboards |
 | Direction | Production AI engineering roles in Germany and remote Europe |
-
-## Agentic Architecture
-
-```mermaid
-flowchart TD
-    U["User / Workflow Event"] --> O["Orchestrator"]
-    O --> P["Prompt + Policy Layer"]
-    P --> R["Retrieval Pipeline"]
-    R --> V["Vector Store"]
-    P --> T["Tool Router"]
-    T --> A["APIs / Databases / Services"]
-    A --> E["Execution Result"]
-    V --> C["Context Pack"]
-    C --> M["LLM Reasoning Layer"]
-    E --> M
-    M --> G["Guardrails + Evaluation"]
-    G --> S["Shipped Automation"]
-    S --> L["Logs / Metrics / Feedback"]
-    L --> O
-```
 
 ## Tech Control Plane
 
@@ -64,6 +44,9 @@ flowchart TD
 ![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
 
 </div>
 
@@ -76,23 +59,23 @@ delivery        Docker, CI/CD, GitHub Actions, cloud-ready services
 quality         eval sets, LLM-as-judge patterns, traces, monitoring, guardrails
 ```
 
-## Build Matrix
+## Build Focus
 
-| System | What it should do | Engineering concern |
+| Area | What I am sharpening | Tools |
 |---|---|---|
-| Agent runtime | Plan steps, call tools, use context, return structured output | State, retries, tool safety |
-| RAG service | Retrieve useful evidence before generation | Chunking, embeddings, relevance, evals |
-| Workflow automation | Replace repetitive manual processes with API-driven flows | Reliability, observability, fallbacks |
-| AI backend | Serve model-powered features through clean interfaces | Latency, validation, cost control |
-| Evaluation loop | Measure whether outputs improve over time | Test sets, scoring, regression tracking |
+| LLM apps | Useful model-powered features with structured outputs | OpenAI API, LangChain |
+| RAG systems | Retrieval, embeddings, context quality, answer grounding | Vector DBs, Python |
+| Backend engineering | Clean APIs and services for AI-powered workflows | FastAPI, PostgreSQL |
+| Automation | Scripts and tools that remove repetitive manual work | Python, APIs, Docker |
+| Quality | Testing prompts, tracking regressions, improving reliability | Evals, logs, CI/CD |
 
 <details open>
-<summary><b>Currently Indexing</b></summary>
+<summary><b>Current Build Mode</b></summary>
 
-- Agent orchestration with LangGraph-style state machines.
-- RAG pipelines that separate retrieval quality from generation quality.
-- FastAPI services around model calls, tools, and automation triggers.
-- Evals, traces, and feedback loops for production AI behavior.
+- Build small but real projects.
+- Keep the stack readable and deployable.
+- Turn AI ideas into APIs, automations, and practical tools.
+- Improve the profile with stronger repositories over time.
 
 </details>
 
@@ -117,14 +100,6 @@ quality         eval sets, LLM-as-judge patterns, traces, monitoring, guardrails
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DagogoGrant&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagogoGrant&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Signal)
-
-</div>
-
-## Achievement Layer
-
-<div align="center">
-
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=DagogoGrant&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1)
 
 </div>
 
