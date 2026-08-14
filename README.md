@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:02040A,45:0A0F1F,100:00F5FF&text=Welcome%20to%20Grant%20Jack%27s%20GitHub%20Profile&fontColor=E6F7FF&fontSize=34&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:02040A,45:0A0F1F,100:00F5FF&text=Grant%20Dagogo&fontColor=E6F7FF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=550&color=00F5FF&center=true&vCenter=true&width=900&lines=%24+init+ai-engineer.kernel...;%24+load+ml+%7C+llm+%7C+rag+%7C+agentic-ai...;%24+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...;%24+ship+models+as+tools%2C+APIs%2C+and+workflows...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%24+Welcome+to+Grant+Jack%27s+GitHub+Profile...;%24+AI+engineer+building+ML+and+LLM+systems...;%24+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00F5FF)](https://github.com/DagogoGrant)
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-05070D?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
