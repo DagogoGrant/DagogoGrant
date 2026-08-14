@@ -1,23 +1,23 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:020617,45:0F172A,100:00E5FF&text=Grant%20Dagogo&fontColor=E2E8F0&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:02040A,45:0A0F1F,100:00F5FF&text=Grant%20Dagogo&fontColor=E6F7FF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2300&pause=600&color=00E5FF&center=true&vCenter=true&width=900&lines=%3E+AI+engineer+building+ML+and+LLM+systems...;%3E+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...;%3E+turning+models+into+tools%2C+APIs%2C+and+workflows...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=550&color=00F5FF&center=true&vCenter=true&width=900&lines=%24+init+ai-engineer.kernel...;%24+load+ml+%7C+llm+%7C+rag+%7C+agentic-ai...;%24+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...;%24+ship+models+as+tools%2C+APIs%2C+and+workflows...)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00E5FF)](https://github.com/DagogoGrant)
-[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-00E5FF?style=for-the-badge&logo=openai&logoColor=111111)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge)](#)
-[![Open to Work](https://img.shields.io/badge/Open_to-AI_Automation_Roles-22C55E?style=for-the-badge)](#)
+[![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00F5FF)](https://github.com/DagogoGrant)
+[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-05070D?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
+[![AI Engineering](https://img.shields.io/badge/AI_Engineering-00F5FF?style=for-the-badge&logo=openai&logoColor=05070D)](#)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge)](#)
+[![Open to Work](https://img.shields.io/badge/Open_to-AI_Automation_Roles-00FF9C?style=for-the-badge)](#)
 
 </div>
 
 ```txt
-grant@github:~$ whoami
+grant@github:~$ whoami --stack
 AI engineer and AI Engineering Master's student building ML systems, LLM apps,
 agentic workflows, backend services, and automation tools.
 
-grant@github:~$ current_vector
+grant@github:~$ current_vector --darkmode
 Germany / Europe :: ML :: LLMs :: agentic AI :: graph workflows :: production systems
 ```
 
@@ -35,22 +35,22 @@ Germany / Europe :: ML :: LLMs :: agentic AI :: graph workflows :: production sy
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=38BDF8)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0F172A?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
-![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
-![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-0F172A?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F97316)
-![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FACC15)
+![Python](https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-05070D?style=for-the-badge&logo=typescript&logoColor=38BDF8)
+![FastAPI](https://img.shields.io/badge/FastAPI-05070D?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05070D?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
+![Docker](https://img.shields.io/badge/Docker-05070D?style=for-the-badge&logo=docker&logoColor=00F5FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05070D?style=for-the-badge&logo=githubactions&logoColor=8B5CF6)
+![OpenAI](https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![PyTorch](https://img.shields.io/badge/PyTorch-05070D?style=for-the-badge&logo=pytorch&logoColor=FF4D6D)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-05070D?style=for-the-badge&logo=scikitlearn&logoColor=FACC15)
+![Pandas](https://img.shields.io/badge/Pandas-05070D?style=for-the-badge&logo=pandas&logoColor=E6F7FF)
+![LangChain](https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logoColor=00FF9C)
+![LangGraph](https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logoColor=8B5CF6)
+![RAG](https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=00F5FF)
+![VS Code](https://img.shields.io/badge/VS_Code-05070D?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
+![Git](https://img.shields.io/badge/Git-05070D?style=for-the-badge&logo=git&logoColor=FF4D6D)
+![Linux](https://img.shields.io/badge/Linux-05070D?style=for-the-badge&logo=linux&logoColor=FACC15)
 
 </div>
 
@@ -102,9 +102,9 @@ quality         eval sets, metrics, LLM-as-judge patterns, traces, monitoring, g
 
 ![Technical telemetry](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/main/assets/telemetry.svg)
 
-![GitHub streak](https://streak-stats.demolab.com?user=DagogoGrant&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=DagogoGrant&theme=highcontrast&hide_border=true&background=05070D&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF)
 
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagogoGrant&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Signal)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagogoGrant&bg_color=05070D&color=E6F7FF&line=00F5FF&point=8B5CF6&area=true&hide_border=true&custom_title=Neural%20Contribution%20Signal)
 
 </div>
 
@@ -120,14 +120,14 @@ quality         eval sets, metrics, LLM-as-judge patterns, traces, monitoring, g
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-181717?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-00E5FF?style=for-the-badge)](#)
-[![Focus](https://img.shields.io/badge/Build_with_me-Agentic_AI-7C3AED?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-05070D?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-00F5FF?style=for-the-badge)](#)
+[![Focus](https://img.shields.io/badge/Build_with_me-Agentic_AI-8B5CF6?style=for-the-badge)](#)
 
 </div>
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00E5FF,100:020617)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,45:0A0F1F,100:02040A)
 
 </div>
