@@ -1,6 +1,6 @@
 <svg width="1000" height="280" viewBox="0 0 1000 280" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Grant Dagogo AI engineering profile banner</title>
-  <desc id="desc">A restrained dark banner for Grant Dagogo, AI engineer focused on machine learning, deep learning, computer vision, LLM systems, and agentic AI.</desc>
+  <desc id="desc">A restrained dark banner for Grant Dagogo, AI engineer focused on machine learning, deep learning, computer vision, reinforcement learning, LLM systems, and production AI.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="280" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
@@ -21,6 +21,6 @@
   <path d="M700 68H920" stroke="#334155" stroke-width="1.5"/>
 
   <text x="500" y="116" fill="#F8FAFC" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="700">Grant Dagogo</text>
-  <text x="500" y="156" fill="#CBD5E1" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">AI Engineer | ML | Deep Learning | Vision | LLM Systems | Agentic AI</text>
-  <text x="500" y="194" fill="#94A3B8" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="15">classification / regression / clustering / RL / retrieval / evaluation</text>
+  <text x="500" y="156" fill="#CBD5E1" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="500">AI Engineer | ML | Deep Learning | Vision | RL | LLM Systems</text>
+  <text x="500" y="194" fill="#94A3B8" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="15">from algorithms to evaluated production systems</text>
 </svg>

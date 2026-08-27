@@ -1,6 +1,6 @@
 <svg width="1000" height="360" viewBox="0 0 1000 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Grant Dagogo technical profile</title>
-  <desc id="desc">A dark professional engineering profile card focused on AI systems fundamentals.</desc>
+  <desc id="desc">A dark professional engineering profile card focused on AI systems built across machine learning, vision, agents, and production delivery.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="360" gradientUnits="userSpaceOnUse">
       <stop stop-color="#020617"/>
@@ -13,29 +13,29 @@
   <rect x="1" y="1" width="998" height="358" rx="17" stroke="#1F2937" stroke-width="2"/>
 
   <text x="56" y="58" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="700">Technical Profile</text>
-  <text x="56" y="88" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">AI systems engineering across ML, deep learning, vision, LLMs, agents, and production behavior.</text>
+  <text x="56" y="88" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="15">Built work across ML algorithms, vision systems, agent workflows, software analysis, and production AI.</text>
   <path d="M56 116H944" stroke="#334155" stroke-width="1"/>
 
   <g>
     <rect x="56" y="148" width="264" height="118" rx="12" fill="#0F172A" stroke="#334155"/>
     <text x="80" y="184" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">CORE</text>
-    <text x="80" y="216" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">ML + Deep Learning</text>
-    <text x="80" y="244" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">classification, vision, RL</text>
+    <text x="80" y="216" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">ML Foundations</text>
+    <text x="80" y="244" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">regression, SVMs, CNNs, clustering</text>
   </g>
 
   <g>
     <rect x="368" y="148" width="264" height="118" rx="12" fill="#0F172A" stroke="#334155"/>
     <text x="392" y="184" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">METHOD</text>
-    <text x="392" y="216" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Evaluate + Debug</text>
-    <text x="392" y="244" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">metrics, traces, failure modes</text>
+    <text x="392" y="216" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Vision + Agents</text>
+    <text x="392" y="244" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">few-shot, pose, RL, LLM workflows</text>
   </g>
 
   <g>
     <rect x="680" y="148" width="264" height="118" rx="12" fill="#0F172A" stroke="#334155"/>
     <text x="704" y="184" fill="#CBD5E1" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">DELIVERY</text>
-    <text x="704" y="216" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Production AI</text>
+    <text x="704" y="216" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="700">Delivery</text>
     <text x="704" y="244" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">APIs, automation, monitoring</text>
   </g>
 
-  <text x="56" y="318" fill="#64748B" font-family="JetBrains Mono, Consolas, monospace" font-size="14">scope: ML | deep learning | reinforcement learning | vision | LLMs | RAG | agents | production AI</text>
+  <text x="56" y="318" fill="#64748B" font-family="JetBrains Mono, Consolas, monospace" font-size="14">evidence: algorithms | vision | RL | RAG | agents | static analysis | production systems</text>
 </svg>
