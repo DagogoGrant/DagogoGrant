@@ -15,7 +15,10 @@ I am an AI engineer and AI Engineering master's student focused on building reli
 
 My strongest interests are machine learning, LLM applications, retrieval systems, agentic workflows, evaluation, and production-ready automation. I care about how systems behave under real constraints: missing context, noisy data, hallucinations, latency, scaling pressure, and changing model behavior.
 
-## Machine Learning Foundations
+## Explore
+
+<details open>
+<summary><b>Machine Learning Foundations</b></summary>
 
 | Area | Capabilities |
 |---|---|
@@ -25,6 +28,29 @@ My strongest interests are machine learning, LLM applications, retrieval systems
 | Data workflow | Cleaning, preprocessing, feature engineering, train/test splits, cross-validation |
 | Evaluation | Metric selection, model comparison, overfitting/underfitting diagnosis |
 
+</details>
+
+<details>
+<summary><b>AI Systems Work</b></summary>
+
+- LLM applications: prompt design, context engineering, structured outputs, and tool use.
+- RAG and retrieval: embeddings, vector search, context quality, and answer grounding.
+- Agentic AI: prompt -> context -> harness -> loop -> graph engineering.
+- Backend delivery: FastAPI services, APIs, PostgreSQL, Docker, CI/CD, logs, and monitoring.
+
+</details>
+
+<details>
+<summary><b>Production Debugging</b></summary>
+
+- Why did retrieval fail?
+- Why is the model hallucinating?
+- How should this system be evaluated?
+- What happens when traffic increases?
+- Which failure is caused by data, retrieval, prompting, model behavior, or infrastructure?
+
+</details>
+
 ## Engineering Principles
 
 - System design before tool choice.
@@ -33,14 +59,6 @@ My strongest interests are machine learning, LLM applications, retrieval systems
 - Data engineering as part of model performance.
 - Production debugging across failures, regressions, latency, cost, and hallucinations.
 - Frameworks change; fundamentals compound.
-
-## Core Strengths
-
-- Machine learning systems: models, data pipelines, metrics, training loops, and evaluation.
-- LLM applications: prompt design, context engineering, structured outputs, and tool use.
-- RAG and retrieval: embeddings, vector search, context quality, and answer grounding.
-- Agentic AI: prompt -> context -> harness -> loop -> graph engineering.
-- Backend delivery: FastAPI services, APIs, PostgreSQL, Docker, CI/CD, logs, and monitoring.
 
 ## Technical Profile
 
