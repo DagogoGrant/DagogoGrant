@@ -27,25 +27,20 @@ My strongest interests are machine learning, LLM applications, retrieval systems
 
 ## Engineering Principles
 
-| Principle | What it means in practice |
-|---|---|
-| System design first | Understand the architecture before choosing tools |
-| Retrieval quality matters | Diagnose why context is missing, noisy, stale, or misleading |
-| Evaluation is engineering | Measure behavior before trusting model output |
-| Data engineering is core | Build reliable data flows that support model performance |
-| Production debugging counts | Investigate failures, regressions, latency, cost, and hallucinations |
-| Tools are replaceable | Frameworks change; fundamentals compound |
+- System design before tool choice.
+- Retrieval quality before confident generation.
+- Evaluation before trusting model output.
+- Data engineering as part of model performance.
+- Production debugging across failures, regressions, latency, cost, and hallucinations.
+- Frameworks change; fundamentals compound.
 
-## Focus Areas
+## Core Strengths
 
-| Area | Current direction |
-|---|---|
-| Machine learning | Models, data pipelines, metrics, training loops, evaluation |
-| LLM systems | Prompt design, context engineering, structured outputs, tool use |
-| RAG | Embeddings, vector search, retrieval quality, answer grounding |
-| Agentic AI | Prompt -> context -> harness -> loop -> graph engineering |
-| Backend engineering | FastAPI services, APIs, PostgreSQL, Docker, CI/CD |
-| Reliability | Tests, eval sets, logs, traces, monitoring, guardrails |
+- Machine learning systems: models, data pipelines, metrics, training loops, and evaluation.
+- LLM applications: prompt design, context engineering, structured outputs, and tool use.
+- RAG and retrieval: embeddings, vector search, context quality, and answer grounding.
+- Agentic AI: prompt -> context -> harness -> loop -> graph engineering.
+- Backend delivery: FastAPI services, APIs, PostgreSQL, Docker, CI/CD, logs, and monitoring.
 
 ## Technical Profile
 
