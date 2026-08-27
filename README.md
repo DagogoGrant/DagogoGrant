@@ -54,17 +54,6 @@ Germany / Europe :: ML :: LLMs :: agentic AI :: graph workflows :: production sy
 
 </div>
 
-```txt
-languages       Python, TypeScript, SQL
-ml_stack        machine learning, model training, data pipelines, evaluation
-llm_stack       OpenAI API, LangChain, LangGraph, tool calling, structured outputs
-agentic_ai      prompt -> context -> harness -> loop -> graph engineering
-retrieval       embeddings, vector search, context compression, reranking patterns
-backend         FastAPI, REST APIs, PostgreSQL, async services
-delivery        Docker, CI/CD, GitHub Actions, cloud-ready services
-quality         eval sets, metrics, debugging, traces, monitoring, guardrails
-```
-
 ## Engineering Fundamentals
 
 | Fundamental | What I care about |
