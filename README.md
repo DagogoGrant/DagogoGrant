@@ -18,6 +18,22 @@ My strongest interests are machine learning, LLM applications, retrieval systems
 ## Explore
 
 <details open>
+<summary><b>AI Engineering Scope</b></summary>
+
+- Machine learning foundations: classification, regression, clustering, training, validation, and error analysis.
+- Data engineering: cleaning, preprocessing, feature engineering, pipelines, data quality, and storage.
+- AI system design: model interfaces, APIs, retrieval, evaluation, monitoring, scaling, and failure handling.
+- LLM engineering: prompts, context engineering, structured outputs, tool calling, latency, cost, and hallucination control.
+- Retrieval and RAG: chunking, embeddings, vector search, reranking, grounding, and retrieval evaluation.
+- Agentic AI: planning, tool use, memory, workflow orchestration, harnesses, loops, and graph engineering.
+- Evaluation: offline tests, online feedback, benchmark sets, human review, regression testing, and quality metrics.
+- Production engineering: backend services, deployment, CI/CD, observability, reliability, security, and cost control.
+- MLOps and LLMOps: versioning, experiment tracking, prompt management, monitoring, rollback, and drift detection.
+- Product engineering: turning AI capability into usable tools, workflows, integrations, and measurable value.
+
+</details>
+
+<details open>
 <summary><b>Machine Learning Foundations</b></summary>
 
 | Area | Capabilities |

@@ -37,5 +37,5 @@
     <text x="704" y="244" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">APIs, automation, monitoring</text>
   </g>
 
-  <text x="56" y="318" fill="#64748B" font-family="JetBrains Mono, Consolas, monospace" font-size="14">focus: classification | regression | clustering | retrieval | evaluation | production debugging</text>
+  <text x="56" y="318" fill="#64748B" font-family="JetBrains Mono, Consolas, monospace" font-size="14">scope: ML | data engineering | LLMs | RAG | agents | evals | MLOps | production AI</text>
 </svg>
