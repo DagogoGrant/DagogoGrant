@@ -11,61 +11,17 @@
 
 ## Profile
 
-I am an AI engineer and AI Engineering master's student focused on building reliable AI systems, not collecting frameworks.
+I am an AI engineer and AI Engineering master's student building reliable AI systems across machine learning, LLM applications, retrieval, agents, and production automation.
 
-My strongest interests are machine learning, LLM applications, retrieval systems, agentic workflows, evaluation, and production-ready automation. I care about how systems behave under real constraints: missing context, noisy data, hallucinations, latency, scaling pressure, and changing model behavior.
+I care about fundamentals: system design, data quality, evaluation, retrieval behavior, production debugging, and the discipline to choose the right tool instead of listing every tool.
 
-## Explore
+## What I Work On
 
-<details open>
-<summary><b>AI Engineering Scope</b></summary>
-
-- Machine learning foundations: classification, regression, clustering, training, validation, and error analysis.
-- Data engineering: cleaning, preprocessing, feature engineering, pipelines, data quality, and storage.
-- AI system design: model interfaces, APIs, retrieval, evaluation, monitoring, scaling, and failure handling.
-- LLM engineering: prompts, context engineering, structured outputs, tool calling, latency, cost, and hallucination control.
-- Retrieval and RAG: chunking, embeddings, vector search, reranking, grounding, and retrieval evaluation.
-- Agentic AI: planning, tool use, memory, workflow orchestration, harnesses, loops, and graph engineering.
-- Evaluation: offline tests, online feedback, benchmark sets, human review, regression testing, and quality metrics.
-- Production engineering: backend services, deployment, CI/CD, observability, reliability, security, and cost control.
-- MLOps and LLMOps: versioning, experiment tracking, prompt management, monitoring, rollback, and drift detection.
-- Product engineering: turning AI capability into usable tools, workflows, integrations, and measurable value.
-
-</details>
-
-<details open>
-<summary><b>Machine Learning Foundations</b></summary>
-
-| Area | Capabilities |
-|---|---|
-| Supervised learning | Classification, regression, model validation, error analysis |
-| Unsupervised learning | Clustering, dimensionality reduction, pattern discovery |
-| Algorithms | Linear/logistic regression, decision trees, random forests, gradient boosting, SVMs, K-Means, DBSCAN, PCA, neural networks |
-| Data workflow | Cleaning, preprocessing, feature engineering, train/test splits, cross-validation |
-| Evaluation | Metric selection, model comparison, overfitting/underfitting diagnosis |
-
-</details>
-
-<details>
-<summary><b>AI Systems Work</b></summary>
-
-- LLM applications: prompt design, context engineering, structured outputs, and tool use.
-- RAG and retrieval: embeddings, vector search, context quality, and answer grounding.
+- ML systems: classification, regression, clustering, model training, validation, and error analysis.
+- LLM systems: prompt design, context engineering, structured outputs, and tool use.
+- Retrieval/RAG: embeddings, vector search, retrieval quality, grounding, and evaluation.
 - Agentic AI: prompt -> context -> harness -> loop -> graph engineering.
-- Backend delivery: FastAPI services, APIs, PostgreSQL, Docker, CI/CD, logs, and monitoring.
-
-</details>
-
-<details>
-<summary><b>Production Debugging</b></summary>
-
-- Why did retrieval fail?
-- Why is the model hallucinating?
-- How should this system be evaluated?
-- What happens when traffic increases?
-- Which failure is caused by data, retrieval, prompting, model behavior, or infrastructure?
-
-</details>
+- Production AI: APIs, automation, CI/CD, observability, cost control, and debugging.
 
 ## Engineering Principles
 
@@ -75,6 +31,30 @@ My strongest interests are machine learning, LLM applications, retrieval systems
 - Data engineering as part of model performance.
 - Production debugging across failures, regressions, latency, cost, and hallucinations.
 - Frameworks change; fundamentals compound.
+
+<details>
+<summary><b>Technical Scope</b></summary>
+
+| Area | Working knowledge |
+|---|---|
+| Supervised learning | Classification, regression, validation, error analysis |
+| Unsupervised learning | Clustering, dimensionality reduction, pattern discovery |
+| Algorithms | Linear/logistic regression, decision trees, random forests, gradient boosting, SVMs, K-Means, DBSCAN, PCA, neural networks |
+| Data workflow | Cleaning, preprocessing, feature engineering, train/test splits, cross-validation |
+| AI systems | LLMs, RAG, agents, evaluation, APIs, MLOps/LLMOps, monitoring |
+
+</details>
+
+<details>
+<summary><b>Questions I Like Engineering Around</b></summary>
+
+- Why did retrieval fail?
+- Why is the model hallucinating?
+- How should this system be evaluated?
+- What happens when traffic increases?
+- Is the failure caused by data, retrieval, prompting, model behavior, or infrastructure?
+
+</details>
 
 ## Technical Profile
 
