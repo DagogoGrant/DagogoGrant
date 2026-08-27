@@ -4,20 +4,23 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-111827?style=flat-square&logo=github)](https://github.com/DagogoGrant)
 [![AI Engineering](https://img.shields.io/badge/AI%20Engineering-1F2937?style=flat-square)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-374151?style=flat-square)](#)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-374151?style=flat-square)](#)
+[![Computer Vision](https://img.shields.io/badge/Computer%20Vision-475569?style=flat-square)](#)
 [![Agentic AI](https://img.shields.io/badge/Agentic%20AI-475569?style=flat-square)](#)
 
 </div>
 
 ## Profile
 
-I am an AI engineer and AI Engineering master's student building reliable AI systems across machine learning, LLM applications, retrieval, agents, and production automation.
+I am an AI engineer and AI Engineering master's student building reliable AI systems across machine learning, deep learning, reinforcement learning, computer vision, LLM applications, retrieval, agents, and production automation.
 
 I care about fundamentals: system design, data quality, evaluation, retrieval behavior, production debugging, and the discipline to choose the right tool instead of listing every tool.
 
 ## What I Work On
 
 - ML systems: classification, regression, clustering, model training, validation, and error analysis.
+- Deep learning and vision: neural networks, representation learning, image-based models, and computer vision pipelines.
+- Reinforcement learning: agents, environments, policies, rewards, exploration, and iterative improvement.
 - LLM systems: prompt design, context engineering, structured outputs, and tool use.
 - Retrieval/RAG: embeddings, vector search, retrieval quality, grounding, and evaluation.
 - Agentic AI: prompt -> context -> harness -> loop -> graph engineering.
@@ -39,6 +42,8 @@ I care about fundamentals: system design, data quality, evaluation, retrieval be
 |---|---|
 | Supervised learning | Classification, regression, validation, error analysis |
 | Unsupervised learning | Clustering, dimensionality reduction, pattern discovery |
+| Deep learning | Neural networks, representation learning, model training, computer vision |
+| Reinforcement learning | Agents, environments, policies, rewards, exploration |
 | Algorithms | Linear/logistic regression, decision trees, random forests, gradient boosting, SVMs, K-Means, DBSCAN, PCA, neural networks |
 | Data workflow | Cleaning, preprocessing, feature engineering, train/test splits, cross-validation |
 | AI systems | LLMs, RAG, agents, evaluation, APIs, MLOps/LLMOps, monitoring |
@@ -76,6 +81,7 @@ I care about fundamentals: system design, data quality, evaluation, retrieval be
 ![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=F97316)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F59E0B)
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=E5E7EB)
+![OpenCV](https://img.shields.io/badge/OpenCV-111827?style=flat-square&logo=opencv&logoColor=5CDB95)
 ![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=E5E7EB)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=93C5FD)
 
