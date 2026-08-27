@@ -15,6 +15,16 @@ I am an AI engineer and AI Engineering master's student focused on building reli
 
 My strongest interests are machine learning, LLM applications, retrieval systems, agentic workflows, evaluation, and production-ready automation. I care about how systems behave under real constraints: missing context, noisy data, hallucinations, latency, scaling pressure, and changing model behavior.
 
+## Machine Learning Foundations
+
+| Area | Capabilities |
+|---|---|
+| Supervised learning | Classification, regression, model validation, error analysis |
+| Unsupervised learning | Clustering, dimensionality reduction, pattern discovery |
+| Algorithms | Linear/logistic regression, decision trees, random forests, gradient boosting, SVMs, K-Means, DBSCAN, PCA, neural networks |
+| Data workflow | Cleaning, preprocessing, feature engineering, train/test splits, cross-validation |
+| Evaluation | Metric selection, model comparison, overfitting/underfitting diagnosis |
+
 ## Engineering Principles
 
 | Principle | What it means in practice |
