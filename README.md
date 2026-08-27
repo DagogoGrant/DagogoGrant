@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:02040A,45:0A0F1F,100:00F5FF&text=Grant%20Dagogo&fontColor=E6F7FF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=16)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%24+Welcome+to+Grant+Jack%27s+GitHub+Profile...;%24+AI+engineer+building+ML+and+LLM+systems...;%24+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%24+Welcome+to+Grant+Jack%27s+GitHub+Profile...;%24+AI+engineer+building+ML+and+LLM+systems...;%24+system+design+%7C+retrieval+%7C+evaluation+%7C+debugging...;%24+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00F5FF)](https://github.com/DagogoGrant)
 [![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-05070D?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
@@ -27,7 +27,7 @@ Germany / Europe :: ML :: LLMs :: agentic AI :: graph workflows :: production sy
 |---|---|
 | Identity | AI engineer with ML, LLM, and agentic systems focus |
 | Core domain | ML, LLM apps, RAG, AI agents, workflow automation |
-| Engineering mode | Prompt, context, harness, loop, graph, evaluate, ship |
+| Engineering mode | Understand the system, evaluate behavior, debug failure modes, ship |
 | Target surface | Backend services, internal tools, automation dashboards, agent workflows |
 | Direction | Production AI engineering roles in Germany and remote Europe |
 
@@ -62,8 +62,19 @@ agentic_ai      prompt -> context -> harness -> loop -> graph engineering
 retrieval       embeddings, vector search, context compression, reranking patterns
 backend         FastAPI, REST APIs, PostgreSQL, async services
 delivery        Docker, CI/CD, GitHub Actions, cloud-ready services
-quality         eval sets, metrics, LLM-as-judge patterns, traces, monitoring, guardrails
+quality         eval sets, metrics, debugging, traces, monitoring, guardrails
 ```
+
+## Engineering Fundamentals
+
+| Fundamental | What I care about |
+|---|---|
+| System design | How components fit, fail, scale, and recover |
+| Retrieval | Why context is missing, noisy, stale, or misleading |
+| Evaluation | How to measure quality before trusting the output |
+| Data engineering | How data moves, changes, and supports model behavior |
+| LLM fundamentals | Tokens, prompts, context windows, tools, latency, cost |
+| Production debugging | Why retrieval failed, why hallucination happened, what changed |
 
 ## Build Focus
 
@@ -71,17 +82,18 @@ quality         eval sets, metrics, LLM-as-judge patterns, traces, monitoring, g
 |---|---|---|
 | Machine learning | Models, data, metrics, training loops, evaluation | Python, PyTorch, scikit-learn |
 | LLM apps | Useful model-powered features with structured outputs | OpenAI API, LangChain |
-| RAG systems | Retrieval, embeddings, context quality, answer grounding | Vector DBs, Python |
+| RAG systems | Retrieval quality, context design, answer grounding | Vector DBs, Python |
 | Agentic AI | Prompting, context design, harnesses, loops, graph workflows | LangGraph, tools, APIs |
 | Backend engineering | Clean APIs and services for AI-powered workflows | FastAPI, PostgreSQL |
-| Quality | Testing prompts, tracking regressions, improving reliability | Evals, logs, CI/CD |
+| Quality | Testing systems, tracking regressions, improving reliability | Evals, logs, CI/CD |
 
 <details open>
 <summary><b>Current Build Mode</b></summary>
 
 - Build small but real AI and ML projects.
-- Keep the stack readable and deployable.
+- Focus on fundamentals before collecting frameworks.
 - Turn AI ideas into APIs, agent workflows, automations, and practical tools.
+- Debug retrieval, hallucination, scaling, and evaluation problems.
 - Improve the profile with stronger repositories over time.
 
 </details>

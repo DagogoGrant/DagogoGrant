@@ -48,25 +48,25 @@
     <rect x="38" y="125" width="252" height="132" rx="14" fill="#05070D" stroke="#00F5FF" stroke-opacity="0.46"/>
     <path d="M58 150H126" stroke="#00F5FF" stroke-width="2"/>
     <text x="58" y="178" fill="#00F5FF" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">FOCUS.NODE</text>
-    <text x="58" y="210" fill="#E6F7FF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">ML + LLM Systems</text>
-    <text x="58" y="238" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">models, RAG, agents, tools</text>
+    <text x="58" y="210" fill="#E6F7FF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">AI Fundamentals</text>
+    <text x="58" y="238" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">system design, ML, LLMs</text>
   </g>
 
   <g>
     <rect x="324" y="125" width="252" height="132" rx="14" fill="#05070D" stroke="#8B5CF6" stroke-opacity="0.56"/>
     <path d="M344 150H412" stroke="#8B5CF6" stroke-width="2"/>
     <text x="344" y="178" fill="#A78BFA" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">STACK.BUS</text>
-    <text x="344" y="210" fill="#E6F7FF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Python + Graphs</text>
-    <text x="344" y="238" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">LangGraph, FastAPI, Docker</text>
+    <text x="344" y="210" fill="#E6F7FF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Retrieval + Evals</text>
+    <text x="344" y="238" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">context, metrics, grounding</text>
   </g>
 
   <g>
     <rect x="610" y="125" width="252" height="132" rx="14" fill="#05070D" stroke="#00FF9C" stroke-opacity="0.48"/>
     <path d="M630 150H698" stroke="#00FF9C" stroke-width="2"/>
     <text x="630" y="178" fill="#00FF9C" font-family="JetBrains Mono, Consolas, monospace" font-size="14" font-weight="700">LOOP.CORE</text>
-    <text x="630" y="210" fill="#E6F7FF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Harness + Evals</text>
-    <text x="630" y="238" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">context, loops, iteration</text>
+    <text x="630" y="210" fill="#E6F7FF" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Debug + Ship</text>
+    <text x="630" y="238" fill="#94A3B8" font-family="Inter, Arial, sans-serif" font-size="14">failure modes, scale, loops</text>
   </g>
 
-  <text x="38" y="316" fill="#64748B" font-family="JetBrains Mono, Consolas, monospace" font-size="13">signals: ml | llms | prompt | context | harness | loop | graph engineering | production ai</text>
+  <text x="38" y="316" fill="#64748B" font-family="JetBrains Mono, Consolas, monospace" font-size="13">signals: system design | retrieval | evaluation | data engineering | debugging | production ai</text>
 </svg>
