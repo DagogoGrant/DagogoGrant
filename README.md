@@ -1,134 +1,71 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=220&color=0:02040A,45:0A0F1F,100:00F5FF&text=Grant%20Dagogo&fontColor=E6F7FF&fontSize=48&fontAlignY=38&desc=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Agentic%20AI&descAlignY=58&descSize=16)
+![Grant Dagogo profile banner](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/main/assets/profile-banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=900&lines=%24+Welcome+to+Grant+Jack%27s+GitHub+Profile...;%24+AI+engineer+building+ML+and+LLM+systems...;%24+system+design+%7C+retrieval+%7C+evaluation+%7C+debugging...;%24+prompt+%E2%86%92+context+%E2%86%92+harness+%E2%86%92+loop+%E2%86%92+graph...)](https://git.io/typing-svg)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DagogoGrant&style=for-the-badge&color=00F5FF)](https://github.com/DagogoGrant)
-[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-05070D?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
-[![AI Engineering](https://img.shields.io/badge/AI_Engineering-00F5FF?style=for-the-badge&logo=openai&logoColor=05070D)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge)](#)
-[![Open to Work](https://img.shields.io/badge/Open_to-AI_Automation_Roles-00FF9C?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-111827?style=flat-square&logo=github)](https://github.com/DagogoGrant)
+[![AI Engineering](https://img.shields.io/badge/AI%20Engineering-1F2937?style=flat-square)](#)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-374151?style=flat-square)](#)
+[![Agentic AI](https://img.shields.io/badge/Agentic%20AI-475569?style=flat-square)](#)
 
 </div>
 
-```txt
-grant@github:~$ whoami --stack
-AI engineer and AI Engineering Master's student building ML systems, LLM apps,
-agentic workflows, backend services, and automation tools.
+## Profile
 
-grant@github:~$ current_vector --darkmode
-Germany / Europe :: ML :: LLMs :: agentic AI :: graph workflows :: production systems
-```
+I am an AI engineer and AI Engineering master's student focused on building reliable AI systems, not collecting frameworks.
 
-## Runtime Profile
+My strongest interests are machine learning, LLM applications, retrieval systems, agentic workflows, evaluation, and production-ready automation. I care about how systems behave under real constraints: missing context, noisy data, hallucinations, latency, scaling pressure, and changing model behavior.
 
-| Layer | Signal |
+## Engineering Principles
+
+| Principle | What it means in practice |
 |---|---|
-| Identity | AI engineer with ML, LLM, and agentic systems focus |
-| Core domain | ML, LLM apps, RAG, AI agents, workflow automation |
-| Engineering mode | Understand the system, evaluate behavior, debug failure modes, ship |
-| Target surface | Backend services, internal tools, automation dashboards, agent workflows |
-| Direction | Production AI engineering roles in Germany and remote Europe |
+| System design first | Understand the architecture before choosing tools |
+| Retrieval quality matters | Diagnose why context is missing, noisy, stale, or misleading |
+| Evaluation is engineering | Measure behavior before trusting model output |
+| Data engineering is core | Build reliable data flows that support model performance |
+| Production debugging counts | Investigate failures, regressions, latency, cost, and hallucinations |
+| Tools are replaceable | Frameworks change; fundamentals compound |
 
-## Tech Control Plane
+## Focus Areas
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-05070D?style=for-the-badge&logo=python&logoColor=FFD43B)
-![TypeScript](https://img.shields.io/badge/TypeScript-05070D?style=for-the-badge&logo=typescript&logoColor=38BDF8)
-![FastAPI](https://img.shields.io/badge/FastAPI-05070D?style=for-the-badge&logo=fastapi&logoColor=00FF9C)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-05070D?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-![Docker](https://img.shields.io/badge/Docker-05070D?style=for-the-badge&logo=docker&logoColor=00F5FF)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-05070D?style=for-the-badge&logo=githubactions&logoColor=8B5CF6)
-![OpenAI](https://img.shields.io/badge/OpenAI-05070D?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![PyTorch](https://img.shields.io/badge/PyTorch-05070D?style=for-the-badge&logo=pytorch&logoColor=FF4D6D)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-05070D?style=for-the-badge&logo=scikitlearn&logoColor=FACC15)
-![Pandas](https://img.shields.io/badge/Pandas-05070D?style=for-the-badge&logo=pandas&logoColor=E6F7FF)
-![LangChain](https://img.shields.io/badge/LangChain-05070D?style=for-the-badge&logoColor=00FF9C)
-![LangGraph](https://img.shields.io/badge/LangGraph-05070D?style=for-the-badge&logoColor=8B5CF6)
-![RAG](https://img.shields.io/badge/RAG-05070D?style=for-the-badge&logoColor=00F5FF)
-![VS Code](https://img.shields.io/badge/VS_Code-05070D?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8)
-![Git](https://img.shields.io/badge/Git-05070D?style=for-the-badge&logo=git&logoColor=FF4D6D)
-![Linux](https://img.shields.io/badge/Linux-05070D?style=for-the-badge&logo=linux&logoColor=FACC15)
-
-</div>
-
-## Engineering Fundamentals
-
-| Fundamental | What I care about |
+| Area | Current direction |
 |---|---|
-| System design | How components fit, fail, scale, and recover |
-| Retrieval | Why context is missing, noisy, stale, or misleading |
-| Evaluation | How to measure quality before trusting the output |
-| Data engineering | How data moves, changes, and supports model behavior |
-| LLM fundamentals | Tokens, prompts, context windows, tools, latency, cost |
-| Production debugging | Why retrieval failed, why hallucination happened, what changed |
+| Machine learning | Models, data pipelines, metrics, training loops, evaluation |
+| LLM systems | Prompt design, context engineering, structured outputs, tool use |
+| RAG | Embeddings, vector search, retrieval quality, answer grounding |
+| Agentic AI | Prompt -> context -> harness -> loop -> graph engineering |
+| Backend engineering | FastAPI services, APIs, PostgreSQL, Docker, CI/CD |
+| Reliability | Tests, eval sets, logs, traces, monitoring, guardrails |
 
-## Build Focus
-
-| Area | What I am sharpening | Tools |
-|---|---|---|
-| Machine learning | Models, data, metrics, training loops, evaluation | Python, PyTorch, scikit-learn |
-| LLM apps | Useful model-powered features with structured outputs | OpenAI API, LangChain |
-| RAG systems | Retrieval quality, context design, answer grounding | Vector DBs, Python |
-| Agentic AI | Prompting, context design, harnesses, loops, graph workflows | LangGraph, tools, APIs |
-| Backend engineering | Clean APIs and services for AI-powered workflows | FastAPI, PostgreSQL |
-| Quality | Testing systems, tracking regressions, improving reliability | Evals, logs, CI/CD |
-
-<details open>
-<summary><b>Current Build Mode</b></summary>
-
-- Build small but real AI and ML projects.
-- Focus on fundamentals before collecting frameworks.
-- Turn AI ideas into APIs, agent workflows, automations, and practical tools.
-- Debug retrieval, hallucination, scaling, and evaluation problems.
-- Improve the profile with stronger repositories over time.
-
-</details>
-
-<details>
-<summary><b>Recruiter Search Terms</b></summary>
-
-`Python` `Machine Learning` `Deep Learning` `LLM Applications` `RAG` `Vector Databases` `LangChain` `LangGraph`
-`AI Agents` `Tool Calling` `Workflow Automation` `Prompt Engineering`
-`Context Engineering` `Graph Engineering` `Evaluation Frameworks` `FastAPI` `APIs` `Docker` `PostgreSQL`
-`Model Monitoring` `Guardrails` `Production AI Systems`
-
-</details>
-
-## Telemetry
+## Technical Profile
 
 <div align="center">
 
-![Technical telemetry](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/main/assets/telemetry.svg)
-
-![GitHub streak](https://streak-stats.demolab.com?user=DagogoGrant&theme=highcontrast&hide_border=true&background=05070D&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF)
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagogoGrant&bg_color=05070D&color=E6F7FF&line=00F5FF&point=8B5CF6&area=true&hide_border=true&custom_title=Neural%20Contribution%20Signal)
+![Technical profile](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/main/assets/telemetry.svg)
 
 </div>
 
-## Contribution Loop
+## Stack
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/DagogoGrant/DagogoGrant/output/github-contribution-grid-snake-dark.svg)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FACC15)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=60A5FA)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=10B981)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=93C5FD)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=38BDF8)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=F97316)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F59E0B)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=E5E7EB)
+![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=E5E7EB)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=flat-square&logo=githubactions&logoColor=93C5FD)
 
 </div>
 
-## Connect
+## Activity
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-DagogoGrant-05070D?style=for-the-badge&logo=github)](https://github.com/DagogoGrant)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coming_soon-00F5FF?style=for-the-badge)](#)
-[![Focus](https://img.shields.io/badge/Build_with_me-Agentic_AI-8B5CF6?style=for-the-badge)](#)
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F5FF,45:0A0F1F,100:02040A)
+![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DagogoGrant&bg_color=0B0F17&color=CBD5E1&line=64748B&point=E5E7EB&area=true&hide_border=true&custom_title=Engineering%20Activity)
 
 </div>
